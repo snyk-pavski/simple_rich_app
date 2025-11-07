@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = "^3.11"
 dependencies = [
     "rich (>=14.2.0,<15.0.0)",
-    "gridlock == 2.0.0"
+    #"gridlock == 2.0.0"
 ]
 
 [project.scripts]
